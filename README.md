@@ -126,7 +126,7 @@
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/crazydeveloper3/autofulterbyprofessorrAuto-branch=main&name=autofulterbyprofessorr)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/crazydeveloper3/autofulterbyprofessorrAuto-branch=master&name=autofulterbyprofessorr)
 </details>
 
 <details><summary>Deploy To Render</summary>
