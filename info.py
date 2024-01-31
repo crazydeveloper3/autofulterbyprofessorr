@@ -121,9 +121,9 @@ else:
     ON_HEROKU = False
 HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
-    URL = "https://lazypro-c931cb346c76.herokuapp.com/".format(FQDN)
+    URL = "https://lazypro-2d3da1637738.herokuapp.com/".format(FQDN)
 else:
-    URL = "https://lazypro-c931cb346c76.herokuapp.com/".format(FQDN)
+    URL = "https://lazypro-2d3da1637738.herokuapp.com/".format(FQDN)
 
 
 
