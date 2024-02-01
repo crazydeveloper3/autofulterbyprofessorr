@@ -1293,7 +1293,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://telegram.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('Donate😣', url='https://telegra.ph/Buy-Me-Coffee-12-25'),
+                    InlineKeyboardButton('ᴇᴀʀɴ ᴍᴏɴᴇʏ🤑', callback_data='shortlink_info'),
                     InlineKeyboardButton('🔎Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url='https://t.me/terabox_movie_request_group')
                 ],[
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
