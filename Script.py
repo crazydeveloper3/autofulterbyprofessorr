@@ -192,7 +192,7 @@ SERIES ➢ Sᴇʟᴇᴄᴛ "Sᴇᴀsᴏɴs"
 Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛᴏɴ ᴀɴᴅ Cʟɪᴄᴋ "Sᴇɴᴅ Aʟʟ" Tᴏ ɢᴇᴛ Aʟʟ Fɪʟᴇ Lɪɴᴋs ɪɴ ᴀ Sɪɴɢʟᴇ ᴄʟɪᴄᴋ"""
 
     SINFO = """
-🫣 Movie Venumna Join Panni Try Again Buttana Click Pannu😅"""
+𝘿𝙪𝙚 𝙩𝙤 𝙤𝙫𝙚𝙧𝙡𝙤𝙖𝙙 𝙤𝙣𝙡𝙮 𝙤𝙪𝙧 𝙨𝙪𝙗𝙨𝙘𝙧𝙞𝙗𝙚𝙧𝙨 𝙘𝙖𝙣 𝙪𝙨𝙚 𝙩𝙝𝙚 𝙗𝙤𝙩.🥲 """
 
     NORSLTS = """ 
 ★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
