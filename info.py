@@ -68,7 +68,7 @@ TUTORIAL = environ.get('TUTORIAL', 'https://t.me/+PTanCTBATpo3YTg9')
 VERIFY = bool(environ.get('VERIFY', False))
 HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/+PkQmIhZMVDxhZmVl')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
-MSG_ALRT = environ.get('MSG_ALRT', "Hii I'm Luffy ❤️")
+MSG_ALRT = environ.get('MSG_ALRT', "What are you looking at🫣")
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001623633000'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'professorr_x')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
@@ -85,7 +85,7 @@ MAX_LIST_ELM = environ.get("MAX_LIST_ELM", None)
 INDEX_REQ_CHANNEL = int(environ.get('INDEX_REQ_CHANNEL', LOG_CHANNEL))
 FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '')).split()]
 MELCOW_NEW_USERS = is_enabled((environ.get('MELCOW_NEW_USERS', "True")), True)
-PROTECT_CONTENT = is_enabled((environ.get('PROTECT_CONTENT', "True")), False)
+PROTECT_CONTENT = is_enabled((environ.get('PROTECT_CONTENT', "True")), True)
 PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "True")), True)
 
 LANGUAGES = ["malayalam", "mal", "tamil", "tam" ,"english", "eng", "hindi", "hin", "telugu", "tel", "kannada", "kan"]
