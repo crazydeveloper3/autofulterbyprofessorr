@@ -62,6 +62,11 @@
             "description": "Name of the database in mongoDB. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
             "required": false
         },
+        "PROTECT_CONTENT": {
+      "description": "Protect contents from getting forwarded",
+      "value": "true",
+      "required": true
+        },
         "COLLECTION_NAME": {
             "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
             "value": "Telegram_files",
