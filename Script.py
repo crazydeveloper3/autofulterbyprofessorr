@@ -205,7 +205,8 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
-<b> Size ⚙️: {file_size}</b>""" 
+<b> Size ⚙️: {file_size}
+<b>Main Channel - @omglinks69 </b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
