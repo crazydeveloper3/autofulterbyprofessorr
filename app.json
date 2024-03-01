@@ -63,9 +63,8 @@
             "required": false
         },
         "PROTECT_CONTENT": {
-      "description": "Protect contents from getting forwarded",
-      "value": "true",
-      "required": true
+            "description": "Protect contents from getting forwarded",
+            "required": true
         },
         "COLLECTION_NAME": {
             "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
